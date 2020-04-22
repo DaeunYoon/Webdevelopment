@@ -1,0 +1,19 @@
+*{margin:0; padding:0;}
+
+/*header*/
+.header{text-align:center}
+.header h1{padding:30px 0;}
+
+.header a:link, .header a:visited {
+  color:#fff; font-size:15px; font-weight:normal; text-decoration: none; display: inline-block;
+}
+.container a:link, .container a:visited {
+  color:black; font-weight:normal; text-decoration: none; display: inline-block;
+}
+
+.menu {background:#000; color:#fff; font-size:15px; font-weight:normal; padding:10px 0; letter-spacing:5px;}
+
+table { margin-left: 10px; width: 90%; border-collapse: collapse; border-top: 3px solid gray; }
+th, td { padding: 10px; border : 1px solid #ddd;}
+
+.noresize {resize: none; resize : vertical; width : 70%;}
