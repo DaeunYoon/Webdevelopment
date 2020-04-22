@@ -1,3 +1,6 @@
+# The Orignal Version
+ver 0.1 made by jsp and mysql without any model architece.
+
 # RoomShare
 This program is made by Daeun YOON & JUNGSOO KIM while 2019/Web Development Programming lecture
 The program is made for Roomsharing between users and run on web browser.
