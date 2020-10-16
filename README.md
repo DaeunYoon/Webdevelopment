@@ -1,17 +1,17 @@
-# The Orignal Version
-ver 0.1 made by jsp and mysql without any model architece.
+# The Original Version
+ver 0.1 made by jsp and mysql without any model architect.
 
 # RoomShare
 This program is made by Daeun YOON & JUNGSOO KIM while 2019/Web Development Programming lecture
 The program is made for Roomsharing between users and run on web browser.
-The program support functions like signup, login, Editing user information, registeration room, reservation room, confirm reservation, Search room information, and so on.
+The program support functions like signup, login, Editing user information, registration room, reservation room, confirm reservation, Search room information, and so on.
 
 
 ## Getting Started
 This program is run on Windows 10 PRO 1903
 To Use program you need to set Database, webserver, Java Runtime Environments, Dev env, JDBC
 1. Database - MySQL v8.0
-Donwload at here https://dev.mysql.com/downloads/installer/
+Download at here https://dev.mysql.com/downloads/installer/
 
 ### Caution Please set Root Password as 1234
 
@@ -20,7 +20,7 @@ Download at here https://tomcat.apache.org/download-90.cgi
 downlaod 32-bit/64-bit Windows Service Installer and install
 
 3. JRE v8
-Downlaod at here https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html 
+Download at here https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html 
 downlaod Windows x64 jre-8u211-windows-x64.exe
 
 4. Dev env - Eclipse EE
