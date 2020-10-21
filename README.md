@@ -1,12 +1,13 @@
 # The Orignal Version
-ver 0.1 made by jsp and mysql without any model architece.
+ver 0.1 made by jsp and mysql without any design pattern.
+ver 0.2 made by php and mysql with MVC pattern
 
 # RoomShare
 This program is made by Daeun YOON & JUNGSOO KIM while 2019/Web Development Programming lecture
 The program is made for Roomsharing between users and run on web browser.
 The program support functions like signup, login, Editing user information, registeration room, reservation room, confirm reservation, Search room information, and so on.
 
-
+#for the last version
 ## Getting Started
 This program is run on Windows 10 PRO 1903
 To Use program you need to set Database, webserver, Java Runtime Environments, Dev env, JDBC
